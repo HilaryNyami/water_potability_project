@@ -1,0 +1,11 @@
+Column,Unit,Description
+ph,,pH of water (0 to 14).
+Hardness,mg/L,Capacity of water to precipitate soap.
+Solids,ppm,Total dissolved solids.
+Chloramines,ppm,Amount of Chloramines.
+Sulfate,mg/L,Amount of Sulfates dissolved.
+Conductivity,μS/cm,Electrical conductivity of water.
+Organic_carbon,ppm,Amount of organic carbon.
+Trihalomethanes,μg/L,Amount of Trihalomethanes.
+Turbidity,NTU,Measure of light emitting property of water.
+Potability,binary,"Indicates if water is safe for human consumption (1: Potable, 0: Not potable)."
